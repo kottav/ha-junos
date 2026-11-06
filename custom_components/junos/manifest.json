@@ -1,6 +1,7 @@
 {
   "domain": "junos",
   "name": "Juniper Junos",
+  "categories": ["computers_network.monitoring"],
   "codeowners": ["@kottav"],
   "config_flow": true,
   "documentation": "https://github.com/kottav/ha-junos",
