@@ -1,0 +1,285 @@
+<rpc-reply message-id="1">
+<multi-routing-engine-results>
+
+<multi-routing-engine-item>
+
+<re-name>localre</re-name>
+
+<software-information>
+<host-name />
+<product-model>qfx5200-32c-32q</product-model>
+<product-name>qfx5200-32c-32q</product-name>
+<junos-version>21.2R2-S1.5</junos-version>
+<junos-edition>flex</junos-edition>
+<package-information>
+<name>os-kernel</name>
+<package-name>os-kernel-flex-x86-64-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS Kernel 64-bit FLEX [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>os-libs</name>
+<package-name>os-libs-12-x86-64-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS libs [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>os-runtime</name>
+<package-name>os-runtime-x86-64-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS runtime [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>zoneinfo</name>
+<package-name>os-zoneinfo-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS time zone information [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>os-libs-compat32</name>
+<package-name>os-libs-compat32-12-x86-64-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS libs compat32 [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>os-compat32</name>
+<package-name>os-compat32-x86-64-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS 32-bit compatibility [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>py-extensions</name>
+<package-name>py-extensions-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS py extensions [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>py-base</name>
+<package-name>py-base-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS py base [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>os-vmguest</name>
+<package-name>os-vmguest-x86-64-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS vmguest [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>os-crypto</name>
+<package-name>os-crypto-x86-64-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS crypto [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>os-boot-junos</name>
+<package-name>os-boot-junos-ve-x86-64-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS OS boot-ve files [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>netstack</name>
+<package-name>junos-net-prd-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS network stack and utilities [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-libs</name>
+<package-name>junos-libs-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS libs [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-libs-compat32</name>
+<package-name>junos-libs-compat32-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS libs compat32 [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-runtime</name>
+<package-name>junos-runtime-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS runtime [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>na-telemetry</name>
+<package-name>na-telemetry-x86-32-21.2R2-S1.5</package-name>
+<comment>JUNOS na telemetry [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>jweb-ex</name>
+<package-name>jweb-ex-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Web Management Platform Package [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-vmguest-platform</name>
+<package-name>junos-modules-qfx-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS qfx modules [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-runtime-platform</name>
+<package-name>junos-runtime-qfx-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS qfx runtime [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-routing-protocol-services</name>
+<package-name>junos-routing-protocol-services-x86-64-21.2R2-S1.5</package-name>
+<comment>JUNOS Routing Protocol Services Daemons [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>junos-routing-mpls-oam-basic</name>
+<package-name>junos-routing-mpls-oam-basic-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Routing mpls-oam-basic [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-routing-mpls-oam-advanced</name>
+<package-name>junos-routing-mpls-oam-advanced-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Routing mpls-oam-advanced [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-routing-lsys</name>
+<package-name>junos-routing-lsys-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Routing lsys [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-routing-controller-internal</name>
+<package-name>junos-routing-controller-internal-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Routing controller-internal [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-routing-controller-external</name>
+<package-name>junos-routing-controller-external-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Routing controller-external [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-routing-compat32</name>
+<package-name>junos-routing-compat32-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Routing 32-bit Compatible Version [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-routing-aggregated</name>
+<package-name>junos-routing-aggregated-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Routing aggregated [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-probe</name>
+<package-name>junos-probe-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS probe utility [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-platform</name>
+<package-name>junos-platform-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS common platform support [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-platform-platform</name>
+<package-name>junos-platform-qfx-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS qfx platform support [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-openconfig</name>
+<package-name>junos-openconfig-x86-32-21.2R2-S1.5</package-name>
+<comment>JUNOS Openconfig [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>junos-net-platform</name>
+<package-name>junos-net-dcp-prd-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS dcp network modules [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-modules</name>
+<package-name>junos-modules-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS modules [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-dp-crypto-support-platform</name>
+<package-name>junos-dp-crypto-support-qfx-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS qfx Data Plane Crypto Support [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-daemons</name>
+<package-name>junos-daemons-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS daemons [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>junos-daemons-platform</name>
+<package-name>junos-daemons-qfx-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS qfx daemons [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jsdn</name>
+<package-name>jsdn-x86-32-21.2R2-S1.5</package-name>
+<comment>JUNOS SDN Software Suite [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jsd-jet-1</name>
+<package-name>jsd-x86-32-21.2R2-S1.5-jet-1</package-name>
+<comment>JUNOS Extension Toolkit [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jphone-home</name>
+<package-name>jphone-home-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Phone-home [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jpfe-platform</name>
+<package-name>jpfe-qfx-x86-32-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Packet Forwarding Engine Support (DC-PFE) [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jpfe-common</name>
+<package-name>jpfe-common-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Packet Forwarding Engine Support (M/T Common) [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jmrt-base</name>
+<package-name>jmrt-base-x86-64-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Juniper Malware Removal Tool (JMRT) [1.0.0+20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jinsight</name>
+<package-name>jinsight-x86-32-21.2R2-S1.5</package-name>
+<comment>JUNOS J-Insight [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jfirmware</name>
+<package-name>jfirmware-x86-32-21.2R2-S1.5</package-name>
+<comment>JUNOS jfirmware [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jdocs</name>
+<package-name>jdocs-x86-32-20211214.211253_builder_junos_212_r2_s1</package-name>
+<comment>JUNOS Online Documentation [20211214.211253_builder_junos_212_r2_s1]</comment>
+</package-information>
+<package-information>
+<name>jail-runtime</name>
+<package-name>jail-runtime-x86-32-20210921.b26011b_builder_stable_12_212</package-name>
+<comment>JUNOS jail runtime [20210921.b26011b_builder_stable_12_212]</comment>
+</package-information>
+<package-information>
+<name>chef</name>
+<package-name>chef-11.10.4_3.0_x86-32</package-name>
+<comment />
+</package-information>
+<package-information>
+<name>JUNOS Host Software</name>
+<comment>JUNOS Host Software [3.14.52-rt50-WR7.0.0.9_ovp:3.1.0]</comment>
+</package-information>
+<package-information>
+<name>Junos Host Software package[1]</name>
+<comment>JUNOS Host qfx-5e host-control package [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>Junos Host Software package[2]</name>
+<comment>JUNOS Host qfx-5e host-platform package [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>Junos Host Software package[3]</name>
+<comment>JUNOS Host qfx-5e control-plane flex package [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>Junos Host Software package[4]</name>
+<comment>JUNOS Host qfx-5e platform package [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>Junos Host Software package[5]</name>
+<comment>JUNOS Host qfx-5e base package [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>Junos Host Software package[6]</name>
+<comment>JUNOS Host qfx-5e data-plane package [21.2R2-S1.5]</comment>
+</package-information>
+<package-information>
+<name>JUNOS Software</name>
+<comment>Junos for Automation Enhancement</comment>
+</package-information>
+</software-information>
+</multi-routing-engine-item>
+
+</multi-routing-engine-results>
+</rpc-reply>

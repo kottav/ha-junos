@@ -1,0 +1,60 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to a Juniper switch",
+        "description": "The switch needs NETCONF over SSH turned on and a read-only user. See the setup guide in the README. Give either a password or a private key.",
+        "data": {
+          "host": "Host",
+          "port": "NETCONF port",
+          "username": "Username",
+          "password": "Password",
+          "private_key": "SSH private key (OpenSSH/PEM text)",
+          "passphrase": "Private key passphrase"
+        },
+        "data_description": {
+          "host": "Hostname or IP address of the switch's management interface.",
+          "port": "830 unless you changed 'system services netconf ssh port'.",
+          "private_key": "Paste the whole key, including the BEGIN/END lines. Leave empty to use a password."
+        }
+      },
+      "reauth_confirm": {
+        "title": "Re-authenticate {host}",
+        "description": "The switch rejected the stored credentials, or its SSH host key changed (for example after a routing engine replacement or zeroize). Submitting accepts the switch's current host key.\n\n{error}",
+        "data": {
+          "username": "Username",
+          "password": "Password",
+          "private_key": "SSH private key (OpenSSH/PEM text)",
+          "passphrase": "Private key passphrase"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Could not connect: {error}",
+      "invalid_auth": "The switch rejected the username, password or key.",
+      "netconf_refused": "SSH worked but NETCONF is off. On the switch: set system services netconf ssh; commit",
+      "host_key_changed": "The switch's SSH host key does not match the one stored for it.",
+      "no_credentials": "Enter a password or a private key.",
+      "unknown": "Unexpected error: {error}"
+    },
+    "abort": {
+      "already_configured": "This switch is already set up.",
+      "reauth_successful": "Re-authentication was successful."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Juniper Junos options",
+        "data": {
+          "scan_interval": "Polling interval",
+          "interfaces": "Ports to create entities for"
+        },
+        "data_description": {
+          "scan_interval": "Seconds between polls. Throughput is averaged over this interval.",
+          "interfaces": "Deselect ports you don't care about to keep the entity count down."
+        }
+      }
+    }
+  }
+}

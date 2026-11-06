@@ -1,0 +1,133 @@
+<rpc-reply message-id="4">
+<environment-information>
+<environment-item>
+<name>FPC 0 Power Supply 0</name>
+<class>Power</class>
+<status>OK</status>
+<temperature celsius="26">26 degrees C / 78 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Power Supply 1</name>
+<status>OK</status>
+<temperature celsius="26">26 degrees C / 78 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor TopLeft I</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="28">28 degrees C / 82 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor TopRight E</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="28">28 degrees C / 82 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor TopCenter I</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="29">29 degrees C / 84 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor TopLeft E</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="34">34 degrees C / 93 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor CPULeft I</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="32">32 degrees C / 89 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor CPURight I</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="31">31 degrees C / 87 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor CPU Die Temp</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="38">38 degrees C / 100 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor TopCenter E</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="24">24 degrees C / 75 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor BottomRight E</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="34">34 degrees C / 93 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor TopRight I</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="25">25 degrees C / 77 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Sensor BottomLeft E</name>
+<class>Temp</class>
+<status>OK</status>
+<temperature celsius="40">40 degrees C / 104 degrees F</temperature>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 0 Fan 0</name>
+<class>Fans</class>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 0 Fan 1</name>
+<class>Fans</class>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 1 Fan 0</name>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 1 Fan 1</name>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 2 Fan 0</name>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 2 Fan 1</name>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 3 Fan 0</name>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 3 Fan 1</name>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 4 Fan 0</name>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+<environment-item>
+<name>FPC 0 Fan Tray 4 Fan 1</name>
+<status>OK</status>
+<comment>Spinning at normal speed</comment>
+</environment-item>
+</environment-information>
+</rpc-reply>

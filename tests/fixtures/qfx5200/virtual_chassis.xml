@@ -1,0 +1,27 @@
+<rpc-reply message-id="16">
+<virtual-chassis-information>
+<virtual-chassis-id-information>
+<virtual-chassis-id>0200.5e00.0001</virtual-chassis-id>
+<virtual-chassis-mode>Enabled</virtual-chassis-mode>
+</virtual-chassis-id-information>
+<member-list style="single-slot">
+<member>
+<member-status>Prsnt</member-status>
+<member-id>0</member-id>
+<fpc-slot>(FPC 0)</fpc-slot>
+<member-serial-number>SERIAL0001</member-serial-number>
+<member-model>qfx5200-32c-32q</member-model>
+<member-priority>128</member-priority>
+<member-mixed-mode>N</member-mixed-mode>
+<member-route-mode>VC</member-route-mode>
+<member-role>Master*</member-role>
+<neighbor-list>
+</neighbor-list>
+</member>
+</member-list>
+<next-member-information>
+<next-member-id>1</next-member-id>
+<next-fpc-slot>1</next-fpc-slot>
+</next-member-information>
+</virtual-chassis-information>
+</rpc-reply>

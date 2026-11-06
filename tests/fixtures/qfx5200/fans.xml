@@ -1,0 +1,64 @@
+<rpc-reply message-id="5">
+<fan-information style="rpm">
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 0 Fan 0</name>
+<status>OK</status>
+<rpm>5856</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 0 Fan 1</name>
+<status>OK</status>
+<rpm>6585</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 1 Fan 0</name>
+<status>OK</status>
+<rpm>6033</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 1 Fan 1</name>
+<status>OK</status>
+<rpm>6521</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 2 Fan 0</name>
+<status>OK</status>
+<rpm>5973</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 2 Fan 1</name>
+<status>OK</status>
+<rpm>6474</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 3 Fan 0</name>
+<status>OK</status>
+<rpm>6101</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 3 Fan 1</name>
+<status>OK</status>
+<rpm>6513</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 4 Fan 0</name>
+<status>OK</status>
+<rpm>5980</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+<fan-information-rpm-item>
+<name>FPC 0 Fan Tray 4 Fan 1</name>
+<status>OK</status>
+<rpm>6545</rpm>
+<comment>Spinning at normal speed</comment>
+</fan-information-rpm-item>
+</fan-information>
+</rpc-reply>

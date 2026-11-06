@@ -1,0 +1,45 @@
+<rpc-reply message-id="15">
+<multi-routing-engine-results>
+
+<multi-routing-engine-item>
+
+<re-name>localre</re-name>
+
+<system-storage-information style="brief">
+<filesystem>
+<filesystem-name>/dev/gpt/junos</filesystem-name>
+<total-blocks format="6.0G">12540924</total-blocks>
+<used-blocks format="998M">2043600</used-blocks>
+<available-blocks format="4.5G">9494052</available-blocks>
+<used-percent> 18</used-percent>
+<mounted-on>/.mount</mounted-on>
+</filesystem>
+<filesystem>
+<filesystem-name>tmpfs</filesystem-name>
+<total-blocks format="4.8G">10135984</total-blocks>
+<used-blocks format="156K">312</used-blocks>
+<available-blocks format="4.8G">10135672</available-blocks>
+<used-percent>  0</used-percent>
+<mounted-on>/.mount/tmp</mounted-on>
+</filesystem>
+<filesystem>
+<filesystem-name>tmpfs</filesystem-name>
+<total-blocks format="643M">1316688</total-blocks>
+<used-blocks format="856K">1712</used-blocks>
+<available-blocks format="642M">1314976</available-blocks>
+<used-percent>  0</used-percent>
+<mounted-on>/.mount/mfs</mounted-on>
+</filesystem>
+<filesystem>
+<filesystem-name>hostvar</filesystem-name>
+<total-blocks format="12G">25887120</total-blocks>
+<used-blocks format="132M">270752</used-blocks>
+<available-blocks format="12G">24255280</available-blocks>
+<used-percent>  1</used-percent>
+<mounted-on>/.mount/hostvar</mounted-on>
+</filesystem>
+</system-storage-information>
+</multi-routing-engine-item>
+
+</multi-routing-engine-results>
+</rpc-reply>

@@ -1,0 +1,51 @@
+<rpc-reply message-id="14">
+<lldp-neighbors-information style="brief">
+<lldp-neighbor-information>
+<lldp-local-port-id>et-0/0/1:2</lldp-local-port-id>
+<lldp-local-parent-interface-name>-</lldp-local-parent-interface-name>
+<lldp-remote-chassis-id-subtype>Mac address</lldp-remote-chassis-id-subtype>
+<lldp-remote-chassis-id>02:00:5e:00:00:1a</lldp-remote-chassis-id>
+<lldp-remote-port-description>nic-port</lldp-remote-port-description>
+</lldp-neighbor-information>
+<lldp-neighbor-information>
+<lldp-local-port-id>em0</lldp-local-port-id>
+<lldp-local-parent-interface-name>-</lldp-local-parent-interface-name>
+<lldp-remote-chassis-id-subtype>Mac address</lldp-remote-chassis-id-subtype>
+<lldp-remote-chassis-id>02:00:5e:00:00:02</lldp-remote-chassis-id>
+<lldp-remote-port-description>mgmt-port</lldp-remote-port-description>
+<lldp-remote-system-name>neighbor-switch</lldp-remote-system-name>
+</lldp-neighbor-information>
+<lldp-neighbor-information>
+<lldp-local-port-id>xe-0/0/0:2</lldp-local-port-id>
+<lldp-local-parent-interface-name>ae0</lldp-local-parent-interface-name>
+<lldp-remote-chassis-id-subtype>Mac address</lldp-remote-chassis-id-subtype>
+<lldp-remote-chassis-id>02:00:5e:00:00:02</lldp-remote-chassis-id>
+<lldp-remote-port-description>uplink</lldp-remote-port-description>
+<lldp-remote-system-name>neighbor-switch</lldp-remote-system-name>
+</lldp-neighbor-information>
+<lldp-neighbor-information>
+<lldp-local-port-id>xe-0/0/0:1</lldp-local-port-id>
+<lldp-local-parent-interface-name>ae0</lldp-local-parent-interface-name>
+<lldp-remote-chassis-id-subtype>Mac address</lldp-remote-chassis-id-subtype>
+<lldp-remote-chassis-id>02:00:5e:00:00:02</lldp-remote-chassis-id>
+<lldp-remote-port-description>port-2</lldp-remote-port-description>
+<lldp-remote-system-name>neighbor-switch</lldp-remote-system-name>
+</lldp-neighbor-information>
+<lldp-neighbor-information>
+<lldp-local-port-id>xe-0/0/17</lldp-local-port-id>
+<lldp-local-parent-interface-name>-</lldp-local-parent-interface-name>
+<lldp-remote-chassis-id-subtype>Mac address</lldp-remote-chassis-id-subtype>
+<lldp-remote-chassis-id>02:00:5e:00:00:1b</lldp-remote-chassis-id>
+<lldp-remote-port-description>port-4</lldp-remote-port-description>
+<lldp-remote-system-name>neighbor-router</lldp-remote-system-name>
+</lldp-neighbor-information>
+<lldp-neighbor-information>
+<lldp-local-port-id>xe-0/0/0:0</lldp-local-port-id>
+<lldp-local-parent-interface-name>-</lldp-local-parent-interface-name>
+<lldp-remote-chassis-id-subtype>Locally assigned</lldp-remote-chassis-id-subtype>
+<lldp-remote-chassis-id>02:00:5e:00:00:1c</lldp-remote-chassis-id>
+<lldp-remote-port-description>port-10</lldp-remote-port-description>
+<lldp-remote-system-name>neighbor-gateway</lldp-remote-system-name>
+</lldp-neighbor-information>
+</lldp-neighbors-information>
+</rpc-reply>

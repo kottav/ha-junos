@@ -1,0 +1,6 @@
+<rpc-reply message-id="11">
+<error>
+<source-daemon>chassis-control</source-daemon>
+<message>command is not valid on the current system (chassis-control)</message>
+</error>
+</rpc-reply>
